@@ -1954,9 +1954,7 @@ div.gb_Za {
   padding: 8px;
   cursor: pointer;
 }
-.gb_Te{
-  background: #375673;
-}
+
 .gb_Te button:focus svg,
 .gb_Te button:hover svg,
 .gb_Te button:active svg,
@@ -2356,6 +2354,7 @@ img.gb_tc {
 .gb_Fe {
   height: 48px;
   max-width: 720px;
+  background: #375673;
 }
 .gb_Vd.gb_Oe:not(.gb_Ee) .gb_Fe {
   max-width: 100%;
