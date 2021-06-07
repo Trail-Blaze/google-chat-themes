@@ -2431,6 +2431,7 @@ img.gb_tc {
   border: none;
   font: normal 16px Google Sans, Roboto, RobotoDraft, Helvetica, Arial,
     sans-serif;
+  color: rgb(160, 177, 191, 0.5876);
   -webkit-font-variant-ligatures: none;
   font-variant-ligatures: none;
   height: 46px;
