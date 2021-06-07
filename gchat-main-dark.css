@@ -2354,7 +2354,6 @@ img.gb_tc {
 .gb_Fe {
   height: 48px;
   max-width: 720px;
-  background: #375673;
 }
 .gb_Vd.gb_Oe:not(.gb_Ee) .gb_Fe {
   max-width: 100%;
@@ -2366,7 +2365,7 @@ img.gb_tc {
   margin-right: 0;
 }
 .gb_Te {
-  background: #f1f3f4;
+  background: #375673;
   border: 1px solid transparent;
   -webkit-border-radius: 8px;
   border-radius: 8px;
