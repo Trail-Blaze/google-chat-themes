@@ -1,0 +1,19 @@
+<html>
+  <head>
+    <title>&nbsp;</title>
+  </head>
+  <body role="presentation">
+    <script nonce="">
+      (function(w,p)
+       {if(p=/(^#|&)cb=([^&]*)/.exec(w.location.hash))
+       {
+         for(var P=p[2].split('.'),
+             f=w.parent,i=0;f&&p;
+             p=P[i++],
+             f=f[p?decodeURIComponent(p):'_frameReady']);
+         f&&f(w)
+       }
+       }(window));
+    </script>
+  </body>
+</html>
