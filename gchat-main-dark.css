@@ -540,6 +540,7 @@ input {
   background-position: center;
   background-repeat: no-repeat;
   background-size: 20px;
+  color: #fcfcfc;
 }
 .Xr .XR {
   background-image: url(https://www.gstatic.com/images/icons/material/system/1x/arrow_drop_down_black_20dp.png);
@@ -3050,6 +3051,9 @@ img.gb_tc {
   background-color: rgba(0, 0, 0, 0.5);
   box-shadow: inset 1px 1px 0 rgba(0, 0, 0, 0.25),
     inset 0 -1px 0 rgba(0, 0, 0, 0.1665);
+}
+.WW{
+  color: #fcfcfc;
 }
 /*! CSS Used keyframes */
 @-webkit-keyframes dotLoadingAnimation {
