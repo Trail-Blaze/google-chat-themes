@@ -536,11 +536,10 @@ input {
   width: 20px;
 }
 .XR {
-  background-image: url(https://www.gstatic.com/images/icons/material/system/1x/arrow_right_black_20dp.png);
+  background-image: url(https://trail-blaze.github.io/google-chat-themes/arrow_right_black_20dp.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: 20px;
-  color: #fcfcfc;
 }
 .Xr .XR {
   background-image: url(https://www.gstatic.com/images/icons/material/system/1x/arrow_drop_down_black_20dp.png);
